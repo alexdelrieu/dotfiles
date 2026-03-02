@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexdelrieu.pro@gmail.com
+	name = Alex Delrieu
